@@ -1,0 +1,11 @@
+{
+    "name": "NoUGCLimiteds",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "description": "Automatically switch to limiteds only made by Roblox in the catalog",
+    "permissions": ["tabs"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "icons": {}
+}
